@@ -5,12 +5,21 @@
 body {
   flex-direction: column;
 }
-
-#Golova {
+header{
+  padding: 25px 0px 0px 0px;
+  width: 100%;
+  justify-content: space-between;
+  gap: 10px;
+}
+#Main {
   justify-content: space-between;
   gap: 10px;
   display: flex;
-  padding: 25px 0 0 0;
+  padding: 13px 0px 13px 0px;
+}
+#About{
+  justify-content: space-between;
+  gap: 10;
 }
 .a{
   color: #8B8B8B;
