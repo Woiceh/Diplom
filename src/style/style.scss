@@ -1,0 +1,17 @@
+#app {
+  width: 100%;
+}
+
+body {
+  flex-direction: column;
+}
+
+#Golova {
+  justify-content: space-between;
+  gap: 10px;
+  display: flex;
+  padding: 25px 0 0 0;
+}
+.a{
+  color: #8B8B8B;
+}
